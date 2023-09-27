@@ -86,6 +86,7 @@ public class GT4500 implements SpaceShip {
           firingSuccess = secondaryTorpedoStore.fire(1);
         }
 
+        double i=0;
         int i=2;
         break;
     }
